@@ -1,0 +1,8 @@
+.vs
+.git
+/Debug/
+/Release/
+/x64/
+Debug/
+Release/
+x64/
